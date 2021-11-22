@@ -1,5 +1,4 @@
 #!/usr/bin/python3
 def no_c(my_string):
-    nstr = my_string.replace("c", "")
-    nstr = nstr.replace("C", "")
-    return nstr
+        mytable = my_string.maketrans("", "", "cC")
+        return my_string.translate(mytable)
