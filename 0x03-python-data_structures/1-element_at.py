@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-def element_at(x, y):
-    if y < 0 or y> len(x):
+def element_at(my_list, idx):
+    if idx < 0 or idx > len(my_list):
         return None
     else:
-        return x[y]
+        return my_list[idx]
