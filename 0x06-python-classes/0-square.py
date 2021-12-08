@@ -1,8 +1,10 @@
 #!/usr/bin/python3
-""" Module providing an empty definition of a class 'Square'
+"""
+Square class definition
 """
 
 
-class Square():
-    """ Empty definition of a 'Square'
+class Square:
+    """
+    An empty Square class
     """
