@@ -5,6 +5,6 @@ Square class definition
 
 class Square:
     """
-    An empty Square class
+    Empty square class
     """
     pass
