@@ -1,10 +1,12 @@
 #!/usr/bin/python3
-"""contains the MyList class"""
+"""
+This module has a class MyList that inherits from
+list. Has a public instance method print_sorted that
+prints the list in ascending order
+"""
 
 
 class MyList(list):
-    def __init__(self):
-        super().__init__()
-
+    """class that inherits from list"""
     def print_sorted(self):
         print(sorted(self))
