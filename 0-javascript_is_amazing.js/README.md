@@ -1,7 +1,7 @@
 # 0x12. Javascript - Warm up
 
 ## Description
-The aim of this project is to get started with Javascript, learn all the syntax and its different uses.
+The goal of this project is to get started with Javascript, learn all of its syntax, and explore its various applications.
 
 ## Table of contents
 Files | Description
