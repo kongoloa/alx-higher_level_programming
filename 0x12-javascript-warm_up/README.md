@@ -1,7 +1,7 @@
-# 0x12. Javascript - Warm up
+# 0x12. JavaScript - Warm up
 
 ## Description
-The goal of this project is to get started with Javascript, learn all of its syntax, and explore its various applications.
+The goal of this project is to get started with JavaScript, learn all of its syntax, and explore its various applications.
 
 ## Table of contents
 Files | Description
